@@ -8,17 +8,6 @@ I enjoy working on ideas that combine **technology, creativity, and business** �
 
 ---
 
-## 👨‍💻 About Me
-
-* 🚀 Interested in **Startups, Technology & Product Building**
-* 💡 Love turning problems into **real-world solutions**
-* 🧠 Exploring **AI, Web Development & emerging technologies**
-* 🏆 Interested in **Hackathons & startup competitions**
-* 🤝 Enjoy working with teams and building ideas from scratch
-* 🎯 Focused on learning, building, and creating meaningful products
-
----
-
 
 ## 🧠 What I'm Exploring
 

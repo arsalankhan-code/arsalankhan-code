@@ -62,23 +62,16 @@ I've worked on early-stage product ideas where the focus wasn't just on coding, 
 * Business & revenue thinking
 * Presenting ideas to judges
 
----
-
-## 📊 GitHub
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
+
+<a href="https://www.instagram.com/arsalaaankhan_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -89,6 +82,7 @@ I've worked on early-stage product ideas where the focus wasn't just on coding, 
 </a>
 
 </p>
+
 
 ---
 
